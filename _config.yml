@@ -69,3 +69,6 @@ theme: bootstrap-blog-hexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Read More text
+excerpt_link: Read More
